@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TalhaKp
+- 👋 Hi, I’m @Talha
 - 👀 I’m interested in developing myself.
 - 🌱 I’m currently learning Python and C.
 - 💞️ I’m looking to collaborate on ...
